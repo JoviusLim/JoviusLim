@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Software Engineer based-in Singapore!</h3>
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at (www.jovius.dev)[https://www.jovius.dev]<br>📫 How to reach me joviuslim@gmail.com<br>⚡Fun fact I love really good food and exploring incredible sights around the world.
+👨‍💻 All of my projects are available at [https://www.jovius.dev]<br>📫 How to reach me joviuslim@gmail.com<br>⚡Fun fact I love really good food and exploring incredible sights around the world.
 
 
 ## 🌐 Socials:
