@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jovius</h1>
 <h3 align="left">A passionate Software Engineer based-in Singapore!</h3>
 
-- 👨‍💻 All of my projects are available at [www.jovius.dev](www.jovius.dev)
+- 👨‍💻 All of my projects are available at [www.jovius.dev](https://www.jovius.dev)
 
 - 📫 How to reach me **joviuslim@gmail.com**
 
