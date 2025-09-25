@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jovius</h1>
-<h3 align="left">A passionate Software Engineer based-in Singapore!</h3>
+<h3 align="left">A Software Engineer based-in Singapore!</h3>
 
 👨‍💻 All of my projects are available at [jovius.dev](https://www.jovius.dev)<br>📫 How to reach me joviuslim@gmail.com<br>⚡Fun fact I love really good food and exploring incredible sights around the world.
 
